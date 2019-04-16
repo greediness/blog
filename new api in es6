@@ -1,0 +1,13 @@
+一、Object: 
+    Object.is()
+    Object.assign()
+    Object.getOwnPropertyDescriptors()
+    Object.create()
+    Object.setPrototypeOf()
+    Object.getPrototypeOf()
+    Object.keys()
+    Object.values()
+    Object.entries()
+    Object.fromEntries()
+二、Array:
+    
